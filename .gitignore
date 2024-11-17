@@ -1,5 +1,8 @@
 wrangler.toml
+package-lock.json
 
+.wrangler
+node_modules
 # Logs
 
 logs
